@@ -1,12 +1,16 @@
 # Agentes Autónomos: Simulador de Sistemas Multi-Agente
 
+O projeto encontra-se no branch Master. Não estava a ser possível merge com o main. 
+
+## Como testar o projeto
+
 Para testar o projeto, basta correr o ficheiro Simulador.py e escrever o nome do ficheiro de parâmetros que se pretende utilizar para a simulação na consola seguido da mensagem “Introduza o nome do ficheiro: ”.
 
 Existem ja dois ficheiros existentes próprios para testar cada ambiente do projeto denominados de "parametros-farol.txt" e "parametros-maze.txt".
 
 É possível adicionar um novo ficheiro .txt ao projeto e utilizá-lo para testar, desde que siga as regras.
 
-## Configuração do ficheiro 
+### Configuração do ficheiro:
 
 O ficheiro de parâmetros, se for do ambiente farol, deve seguir a seguinte configuração:
 
